@@ -1,0 +1,37 @@
+# Конфиденциальная информация
+.env*
+secrets/
+private/
+admin_panel/
+backend/
+bot/tg_bot/
+
+# Логи и временные файлы
+*.log
+logs/
+temp/
+__pycache__/
+*.pyc
+
+# IDE и OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# База данных
+*.db
+*.sqlite
+data/
+
+# Docker
+docker-compose.override.yml
+
+# Backup файлы
+*.backup
+*.bak
+*_backup_*
+
+# Тестовые файлы
+test_*
+*_test.py

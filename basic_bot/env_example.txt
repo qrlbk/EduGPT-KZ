@@ -1,0 +1,64 @@
+# EduGPT KZ - Demo Bot Configuration
+# Автор: Adilet Kuralbek
+# © 2025. All rights reserved.
+
+# ===========================================
+# ДЕМОНСТРАЦИОННАЯ КОНФИГУРАЦИЯ
+# ===========================================
+# ВАЖНО: Это упрощенная версия для демо.
+# Полная конфигурация доступна в коммерческой версии.
+
+# Основные настройки
+BOT_NAME=EduGPT_KZ_Demo
+BOT_VERSION=1.0.0
+DEBUG=true
+LOG_LEVEL=INFO
+
+# Языковые настройки
+DEFAULT_LANGUAGE=ru
+SUPPORTED_LANGUAGES=ru,kk
+
+# Демо данные
+DEMO_MODE=true
+DEMO_FAQ_SIZE=10
+DEMO_MAX_USERS=100
+
+# Лимиты для демо
+RATE_LIMIT_PER_MINUTE=10
+MAX_MESSAGE_LENGTH=1000
+
+# ===========================================
+# НАСТРОЙКИ ДЛЯ ПОЛНОЙ ВЕРСИИ
+# ===========================================
+# Следующие параметры доступны только в коммерческой версии:
+
+# Telegram Bot (закомментировано в демо)
+# TELEGRAM_BOT_TOKEN=your_bot_token_here
+
+# База данных (закомментировано в демо)  
+# DATABASE_URL=postgresql://user:pass@localhost:5432/edugpt
+# REDIS_URL=redis://localhost:6379/0
+
+# AI сервисы (закомментировано в демо)
+# OPENAI_API_KEY=your_openai_key_here
+# OPENAI_MODEL=gpt-4
+
+# Мониторинг (закомментировано в демо)
+# GRAFANA_URL=http://localhost:3000
+# PROMETHEUS_URL=http://localhost:9090
+
+# ===========================================
+# ЛИЦЕНЗИОННАЯ ИНФОРМАЦИЯ
+# ===========================================
+LICENSE_TYPE=DEMO
+LICENSE_HOLDER=Adilet_Kuralbek
+LICENSE_CONTACT=kuralbekadilet475@gmail.com
+LICENSE_YEAR=2025
+LICENSE_RESTRICTIONS=COMMERCIAL_USE_PROHIBITED
+
+# ===========================================
+# БЕЗОПАСНОСТЬ
+# ===========================================
+# ВАЖНО: Никогда не коммитьте реальные ключи в репозиторий!
+# Используйте .env.local для локальной разработки
+# Используйте переменные окружения на продакшене

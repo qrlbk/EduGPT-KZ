@@ -1,0 +1,60 @@
+© 2025 Adilet Kuralbek. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+This repository and its contents are proprietary and confidential.
+Developed by: Adilet Kuralbek
+Contact: kuralbekadilet475@gmail.com
+Project: EduGPT KZ - AI Assistant for Universities
+
+TERMS AND CONDITIONS:
+
+1. VIEWING AND EDUCATIONAL USE
+   You may view, reference, and study this code for educational purposes only.
+   This includes learning, research, and academic discussion.
+
+2. STRICT PROHIBITIONS
+   The following activities are STRICTLY PROHIBITED without explicit WRITTEN 
+   PERMISSION from the author:
+   - Reproduction, copying, or duplication of any part of this code
+   - Distribution, sharing, or redistribution of this code
+   - Modification, adaptation, or derivative works
+   - Commercial use, deployment, or monetization (INCLUDING ANY FORM OF BUSINESS USE)
+   - Integration into other projects or products
+   - Reverse engineering for competitive purposes
+   - Any use that generates revenue or provides business value
+
+3. INTELLECTUAL PROPERTY
+   All rights, title, and interest in and to this software remain with 
+   Adilet Kuralbek. This includes but is not limited to:
+   - Source code and algorithms
+   - Documentation and specifications
+   - Architecture and design patterns
+   - Business logic and workflows
+   - Trademarks and branding
+
+4. COMMERCIAL LICENSING
+   For commercial use, deployment, or licensing inquiries, contact:
+   Email: kuralbekadilet475@gmail.com
+   
+   Commercial licenses are available for:
+   - Universities and educational institutions
+   - EdTech companies and startups
+   - Enterprise deployments
+   - White-label solutions
+
+5. ENFORCEMENT
+   Violation of these terms will result in immediate legal action.
+   This license is governed by the laws of Kazakhstan.
+
+6. NO WARRANTY
+   This software is provided "as is" without any warranties or guarantees.
+   The author disclaims all liability for any damages arising from use.
+
+By accessing, viewing, or using this repository, you agree to be bound 
+by these terms and conditions.
+
+---
+
+Last updated: January 2025
+Version: 1.0
